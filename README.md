@@ -9,7 +9,7 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunoax/)
 
 
-#### 👨‍💻 I'm a programmer in the making, building expertise in both frontend and backend development. 🐍 I also have strong skills in Python automation and creating insightful dashboards in Power BI 📊.
+#### 👨‍💻 I'm a programmer in the making, building expertise in both frontend and backend development. 🐍 I also have skills in Python automation and creating insightful dashboards in Power BI 📊.
 #### 🎓 I hold a Bachelor's degree in Computer Science, and I'm planning to pursue a postgraduate degree in Software Engineering or Project Management in the future. 🚀 Here, on my GitHub, you'll find projects that reflect my commitment to solving real-world problems, learning new technologies, and growing as a developer.
 #### 🤝 Feel free to connect with me—I’m always open to collaborations or opportunities to learn!
 
